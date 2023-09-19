@@ -1,9 +1,8 @@
 ### Hello, world! 👋
 
-My name is Yuri Pinto. I was born in 1994 and I currently live in São Paulo, Brasil.
+My name is Yuri, I was born in 1994 and I currently live in São Paulo, Brazil.
 
-I've been working as a software developer for around a decade. I'm fluent in full stack development, software architecture and love to learn new ways of applying technology to solve real problems.
+I have been working as a software developer for just over a decade. I'm fluent in full-stack development, and software architecture and love learning new ways to apply technology to solve real-world problems.
 
-I'm interested in mobile dev, software architecture, SRE, SEO, audio engineering, etc. Currently studying audio engineering and related technologies.
+In recent years I have been focused on personal projects, most of them exploring technologies such as Python and Ruby.
 
-Feel free to check some of my public projects below.
