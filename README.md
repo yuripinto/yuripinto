@@ -6,3 +6,16 @@ I have been working as a software developer for just over a decade. I'm fluent i
 
 In recent years I have been focused on personal projects, most of them exploring technologies such as Python and Ruby.
 
+Some really cool pages to check out:
+
+- [Ruby on Rails Doctrine](https://rubyonrails.org/doctrine)
+- [PHP The Right Way](https://phptherightway.com/)
+- [Jekyll](https://jekyllrb.com/)
+- [Open Source Computer Science](https://github.com/ossu/computer-science)
+- [Amazon - The Distributed Computing Manifesto](https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html)
+- [Vim Adventures (trainer)](https://vim-adventures.com/)
+
+Tools:
+- [Regex101](https://regex101.com/)
+- [W3 Validator](https://validator.w3.org/)
+- [Mobile Friendly Test](https://search.google.com/test/mobile-friendly)
